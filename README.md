@@ -16,6 +16,7 @@ To run the SMO Music Library Simulator: <br>
 2. Run the simulation by entering in `run` into the command prompt. <br>
 3. After entering in the desired memory capacity you should see a visual output to `stdout` of the simulation with a daily summary for each of the 20 days it is run for.
 <br>
+
 *Part of an example output*:
 <br>
 
