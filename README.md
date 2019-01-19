@@ -7,8 +7,8 @@ Throughout the past few months I have noticed my phone's performance drastically
 # Practicality
 To assess the real world functionality of Storage Memory Optimizer, I also developed a simulation (included in the software's main file) that simulates a person using the software for a music library (for *X* virtual days), including listening to and adding new randomly generated songs to their memory-capped library.
 
-# Frameworks
-Storage Memory Optimizer is written completely in vanilla C++14, with the following additional imported libraries: <vector>, <algorithm>, <time>.
+# Languages && Frameworks
+Storage Memory Optimizer is written completely in vanilla *C++14*, with the following additional imported libraries: `<vector>`, `<algorithm>`, `<time>`.
   
 # Running the Software (Linux/Windows/MacOS)
 To run the SMO Music Library Simulator: <br> 
@@ -23,8 +23,5 @@ To run the SMO Music Library Simulator: <br>
 ![Example Simulation Output](https://github.com/AalokBorkar/Storage-Memory-Optimizer/blob/master/sim.JPG)
 <br>
 Note: The leftmost text is the name of the simulation-generated song, `p` denotes the priority value of keeping the song (increases to reflect time without interaction | lower => better), while `s`denotes the size (in virtual bytes) of the song file.
-
-# Languages Used
-*C++14*
 
 © Aalok Borkar
