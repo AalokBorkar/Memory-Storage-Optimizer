@@ -1,5 +1,5 @@
 # Storage Memory Optimizer
-Software designed to intelligently maintain a set memory capacity for a device's file system by dynamically freeing data as it expands.
+Software designed to maintain a set memory capacity for a device's file system by intelligently caching and freeing data as it expands.
 
 # Motivation
 Throughout the past few months I have noticed my phone's performance drastically decrease as I download more files and data. As I came to this realization it occured to me that there is a huge portion of my device's memory being occupied by content and files that I havent touched in ages. With this in mind I was driven to create a software solution to allow the everyday user to endlessly download new content onto their devices without having to worry about their memory usage or subsequent performance decay.
