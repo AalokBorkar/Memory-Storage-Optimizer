@@ -16,7 +16,7 @@ Compile by entering `g++ optimizer.cpp library.cpp song.cpp -o run` into a comma
 Then run by entering in `run`.
 After entering in the desired memory capacity you should see a visual output to `stdout` of the simulation with a daily summary for each of the 20 days it is run for:
 
-![Example Simulation Output](https://imgur.com/a/XqpzIRN)
+![Example Simulation Output](https://github.com/AalokBorkar/Storage-Memory-Optimizer/blob/master/sim.JPG)
 
 # Languages Used
 *C++14
