@@ -12,9 +12,9 @@ Storage Memory Optimizer is written completely in vanilla C++14, with the follow
   
 # Running the Software (Linux/Windows/MacOS)
 To run the SMO Music Library Simulator: <br> 
-Compile by entering `g++ optimizer.cpp library.cpp song.cpp -o run` into a command prompt with a C++14 compiler. <br>
-run the simulation by entering in `run` into the command prompt. <br>
-After entering in the desired memory capacity you should see a visual output to `stdout` of the simulation with a daily summary for each of the 20 days it is run for. 
+1. Compile by entering `g++ optimizer.cpp library.cpp song.cpp -o run` into a command prompt with a C++14 compiler. <br>
+2. Run the simulation by entering in `run` into the command prompt. <br>
+3. After entering in the desired memory capacity you should see a visual output to `stdout` of the simulation with a daily summary for each of the 20 days it is run for. 
 <br>
 <br>
 *Part of an example output*:
