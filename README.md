@@ -11,8 +11,12 @@ To assess the real world functionality of Storage Memory Optimizer, I also devel
 Storage Memory Optimizer is written completely in vanilla C++14, with the following additional imported libraries: <vector>, <algorithm>, <time>.
   
 # Running the Software (Linux/Windows/MacOS)
+To run the SMO Music Library Simulator 
+Compile by entering `g++ optimizer.cpp library.cpp song.cpp -o run` into a command prompt with a C++14 compiler.
+Then run by entering in `run`.
+After entering in the desired memory capacity you should see a visual output to `stdout` of the simulation with a daily summary for each of the 20 days it is run for.
 
 # Languages Used
-*Application popup built using HTML, Javascript (JQuery, Mark.JS), & CSS3 *Background script build using Javascript (Chrome Messaging API, Chrome Tabs API)
+*C++14
 
 © Aalok Borkar
